@@ -10,7 +10,7 @@ Ce projet a pour objectif de démontrer l'intégration d'une base de données av
 
 ## Prérequis
 - Qt 6.x ou version supérieure
-- Un serveur de base de données (MySQL, SQLite, PostgreSQL, etc.)
+- Un serveur de base de données (MySQL, SQLite, etc.)
 
 ## Installation
 1. Clonez le dépôt :
