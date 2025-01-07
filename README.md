@@ -11,13 +11,16 @@ Ce projet a pour objectif de démontrer l'intégration d'une base de données av
 ## Prérequis
 - Qt 6.x ou version supérieure
   https://www.qt.io/download-open-source
-  ![Uploading image.png…]()
+ 
 
 ![image](https://github.com/user-attachments/assets/a6241ff5-c96c-4997-b291-31d61342d69b)
 
   
 - Un serveur de base de données (MySQL, SQLite, etc.)
   https://www.mysql.com/fr/
+
+  ![image](https://github.com/user-attachments/assets/14649a17-50e8-423f-926d-0290315d47b6)
+
 
 ## Installation
 1. Clonez le dépôt :
