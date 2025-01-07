@@ -8,6 +8,10 @@ Ce projet a pour objectif de démontrer l'intégration d'une base de données av
 - Affichage et gestion des données dans une interface graphique
 - Ajout, suppression et mise à jour des données
 
+## Fichiers
+- Avant de démarrer le projet vous devez télécharger les fichiers suivants :
+  https://drive.google.com/file/d/1IoJ4rO4fchuVR6d1LO4qA_UfSSJgf-YZ/view
+  
 ## Prérequis
 - Qt 6.x ou version supérieure
   https://www.qt.io/download-open-source
