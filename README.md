@@ -11,6 +11,9 @@ Ce projet a pour objectif de démontrer l'intégration d'une base de données av
 ## Fichiers
 - Avant de démarrer le projet vous devez télécharger les fichiers suivants :
   https://drive.google.com/file/d/1IoJ4rO4fchuVR6d1LO4qA_UfSSJgf-YZ/view
+
+  ![image](https://github.com/user-attachments/assets/5cd9c27b-4653-4985-afbc-02ee67eb5172)
+
   
 ## Prérequis
 - Qt 6.x ou version supérieure
