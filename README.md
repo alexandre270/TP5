@@ -21,6 +21,14 @@ Ce projet a pour objectif de démontrer l'intégration d'une base de données av
 
   ![image](https://github.com/user-attachments/assets/14649a17-50e8-423f-926d-0290315d47b6)
 
+## Base de Donnée 
+- Affichage du terminal linux :
+- Création d'une base de donnée FOOT avec la commande CREATE DATABASE le_nom_de_votre_database
+- AFfichage des données dans la table jeu de la base de donnée FOOT avec la commande SELECT * FROM jeu;
+
+![image](https://github.com/user-attachments/assets/96f9ef00-40ac-47bb-bf07-48f83ac32a57)
+
+
 
 ## Installation
 1. Clonez le dépôt :
