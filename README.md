@@ -30,6 +30,8 @@ Ce projet a pour objectif de démontrer l'intégration d'une base de données av
 
 
 affichage de la partie fenêtré QT CREATOR 
+
+
 ![image](https://github.com/user-attachments/assets/3a9a84a1-7572-47b6-b0aa-2b7dde30f0c6)
 
 ## Installation
