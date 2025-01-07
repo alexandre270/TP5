@@ -34,6 +34,13 @@ Ce projet a pour objectif de démontrer l'intégration d'une base de données av
 
 ![image](https://github.com/user-attachments/assets/3a9a84a1-7572-47b6-b0aa-2b7dde30f0c6)
 
+
+- Démonstration du Projet 
+
+[Capture vidéo du 2025-01-07 14-23-59.webm](https://github.com/user-attachments/assets/51c53d09-6729-44f4-a9dc-b16c385610c6)
+
+
+
 ## Installation
 1. Clonez le dépôt :
    ```bash
